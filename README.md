@@ -5,16 +5,26 @@
 目前项目结构如下  
 
 Daily  
+
 ├── README.md  
+
 ├── learn  
+
 │   └── Mnist_GAN  
+
 │       ├── dataset  
+
 │       │   └── MNIST  
+
 │       └── mnist_gan.ipynb  
+
 └── 教程  
-    └── Markdown  
-        ├── 1.png  
-        └── MarkDown基本语法.md     
+
+​    └── Markdown  
+
+​        ├── 1.png  
+
+​        └── MarkDown基本语法.md     
 
 
 
